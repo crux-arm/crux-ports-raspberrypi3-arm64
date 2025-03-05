@@ -1,6 +1,6 @@
-untrusted comment: verify with /etc/ports/raspberrypi3-arm64.pub
-RWROOThsoDo5hCfj6l5pVVM6zTRZs0KV+UErkrLbfImYOc1HsOp8DSUlY6+Why5PAxKoPvRNYKmf2sEH3UN66DaVm9Fum/k5mQ8=
+untrusted comment: verify with /etc/ports/raspberrypi3-arm.pub
+RWROOThsoDo5hLA8NP3qTmzmIlLShpGGmGgBISBES3I/R7onwyflrtWZ5ZovgAHhgf0C2bs/D/+BCogLulRQiMKJqnesjJ70kgY=
 SHA256 (Pkgfile) = 2ec4a98eeeaac2390a1241760344b982e4842fa1bbab1b15102ce7515f1df386
 SHA256 (.footprint) = 7d143f18f63bba5569d729eefd0d0f04ae4b0539f8bd71f9cfd6955b9e7c639d
 SHA256 (pkgutils-5.40.10.tar.xz) = 2d86335be3d0452dcc7ae5f568e7296cd7ea80117f57646d15420a6dc192f174
-SHA256 (pkgmk.conf) = 5c9dcdf22a123035440f3b1447ba3e184de88644b3d7ecfbaf235bf935ed96b7
+SHA256 (pkgmk.conf) = 87f7fb7b419fc50092401abc2bdd1322f7993d2b3a153ecf4377886e680b0786
