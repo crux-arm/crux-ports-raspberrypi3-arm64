@@ -47,7 +47,7 @@ f:7c997bd90e9052283633313520e48e61:libdrm/.footprint
 f:e59598af95960894d624c1bfc0f4130f:libdrm/.signature
 f:24ab751066eb7353271d578383cc295f:libdrm/Pkgfile
 f:0e1717fd1eeb62d8fce0c23682e9b337:pkgutils/.footprint
-f:61ef848d85476c3045ae016f3dab9b8b:pkgutils/.signature
+f:e1b40f0003f98a4527b088c8cf8b3db2:pkgutils/.signature
 f:e79f3095283554d7c80b5717d1ec640e:pkgutils/pkgmk.conf
 f:9693592850d40079557552217619265b:pkgutils/Pkgfile
 f:d32239bcb673463ab874e80d47fae504:COPYING
