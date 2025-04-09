@@ -44,7 +44,7 @@ f:91827ab5700540acc8cd0098bed2d183:kernel-raspberrypi3/.signature
 f:47948e556bd895dbfc273d8f2eb1a244:kernel-raspberrypi3/config-4.10.17
 f:c720298528cfc2010ea246ed40d7aec6:kernel-raspberrypi3/Pkgfile
 f:7c997bd90e9052283633313520e48e61:libdrm/.footprint
-f:e59598af95960894d624c1bfc0f4130f:libdrm/.signature
+f:ac614053acb10ab664274acd433dcd37:libdrm/.signature
 f:24ab751066eb7353271d578383cc295f:libdrm/Pkgfile
 f:0e1717fd1eeb62d8fce0c23682e9b337:pkgutils/.footprint
 f:e1b40f0003f98a4527b088c8cf8b3db2:pkgutils/.signature
