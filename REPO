@@ -25,12 +25,12 @@ f:d6d7873e3dfeb3ce9faf273175b8ab3d:ports/raspberrypi3-arm64.httpup
 f:560170f7f812563a91f53b3893eee297:ports/opt-arm64.httpup
 f:3efeabfbd7104b1c566b604f802ef0c0:ports/core-arm64.pub
 f:aa9a0b21f8f5c14db0059b1adf794dbe:ports/raspberrypi3-arm64.pub
-f:41e3edb10bdfc4428908daf169765fb8:mesa/.footprint
+f:c8f92b89b34d17b66d3710340acea6c0:mesa/.footprint
 f:7e1080546c514670fc44bf6998185490:mesa/0002-egl-wayland-only-supply-LINEAR-modifier-when-support.patch
-f:1ec0473ea54c6d83bb5cd5b69297e353:mesa/.signature
+f:5ba7e923eefb4b823871c594a1d32853:mesa/.signature
 f:c9e9413519fc1715942c928ec8b19460:mesa/0001-dri-don-t-fetch-X11-modifiers-if-we-don-t-support-th.patch
 f:cf566dbb30c12b56c27e3b4ea3513037:mesa/0003-egl-wayland-fallback-to-implicit-modifiers-if-advert.patch
-f:2664d36067e7ecf5f5bf61b9b9010959:mesa/Pkgfile
+f:ff0a863da6444f305625a88cd9269877:mesa/Pkgfile
 f:4c9f6a24c4fb9a2a15558e83006ffe0f:rpi3-userland/.footprint
 f:859ff7c781fa2cf929127e0f8dfd8d75:rpi3-userland/.signature
 f:5d89368753adc17bb9123fa0a07fa2d1:rpi3-userland/Pkgfile
