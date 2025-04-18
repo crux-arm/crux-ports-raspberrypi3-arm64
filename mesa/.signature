@@ -1,5 +1,5 @@
 untrusted comment: verify with /etc/ports/raspberrypi3-arm64.pub
-RWROOThsoDo5hBMa7wE8gFhlSFYjbz6Tig1A9kUj2JUiABATda5xqRb+b9lSvheadhW5DQhSVhw0yYwwETC/RVpLGR+2dNy7GgU=
-SHA256 (Pkgfile) = 2f25085f22a26e83f0d5ec95b778295ec0cef831d65791d22529882b5e0740b5
-SHA256 (.footprint) = 9642b435b25dc165a03856ddcb362bfa3c6dc18309645a2ee7ca6d0d4a1b765d
-SHA256 (mesa-25.0.3.tar.xz) = 5ff426ed6ce0588fd96d18975bdff451ae2ab2fe98b5d1528842ee71ec66711b
+RWROOThsoDo5hCpguFa6hGoU5IBKXSSPZVi43TKB0hh/v6xvxyK1eh2fJ9GjSNus34515i1LfFp9s6C83Z8csYcQ0Sw1q9uTzA8=
+SHA256 (Pkgfile) = 3b3512512b2a821afd1cab7b710c10a3ce70f33f395a0b58b084c6f16a17a6f9
+SHA256 (.footprint) = a5a304e6fecece8dd2af6feb17f53b89f9627de5eb3238d09fdb2962497b69e0
+SHA256 (mesa-25.0.4.tar.xz) = 76293cf4372ca4e4e73fd6c36c567b917b608a4db9d11bd2e33068199a7df04d
